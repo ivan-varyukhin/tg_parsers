@@ -34,12 +34,14 @@
 ***sum_participants_about_info2.py***
 
     Есть список lst=[] в котором хранятся username участников группы;
-    Собрать числа из поля "О Себе" или "About" пользователя из списка lst=[], затем суммировать все добытые числа.
+    Собрать числа из поля "О Себе" или "About" пользователя из списка lst=[], 
+	затем суммировать все добытые числа.
 
-    lst = ['Anthony_Hills', 'Craig_Moody', 'Kathleen_Browns', 'Vicki_Baileys', 'Jorge_Garrett',
-	       'Larry_Summers', 'Tommy_Sullivan', 'Edward_Murrray', 'Nicholas_Gonzales', 'Virgina_Garcia',
-		   'Denise_Barker', 'Jessie_Wright', 'Mary_Baileyn', 'Claytons_Riley', 'Joshuan_Chandler',
-		   'Jameson_Powell', 'Harry_Valdes', 'Chriss_Yong', 'Sarah_Wilis', 'Frances_Ross', 'Joseph_Anderson']
+    lst = ['Anthony_Hills', 'Craig_Moody', 'Kathleen_Browns', 'Vicki_Baileys',
+	       'Jorge_Garrett', 'Larry_Summers', 'Tommy_Sullivan', 'Edward_Murrray',
+		   'Nicholas_Gonzales', 'Virgina_Garcia','Denise_Barker', 'Jessie_Wright',
+		   'Mary_Baileyn', 'Claytons_Riley', 'Joshuan_Chandler', 'Jameson_Powell',
+		   'Harry_Valdes', 'Chriss_Yong', 'Sarah_Wilis', 'Frances_Ross', 'Joseph_Anderson']
 
 ***sum_nums_in_messages.py***
 
